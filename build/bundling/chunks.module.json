@@ -2,18 +2,18 @@
   "errors": [],
   "warnings": [],
   "version": "4.44.2",
-  "hash": "536efc32eb8e7f573e6e",
+  "hash": "1f1ba99d1c6f5f73ca93",
   "publicPath": "/static/",
   "outputPath": "C:\\Users\\jugk\\Desktop\\gerrie-craig\\build\\static",
   "assetsByChunkName": {
     "gerrie-craig": [
       "gerrie-craig.module.js",
-      "gerrie-craig.0c2e1da4a847b2ab759f.hot-update.js"
+      "gerrie-craig.5ee3e64e63b75e3552ea.hot-update.js"
     ]
   },
   "assets": [
     {
-      "name": "0c2e1da4a847b2ab759f.hot-update.json",
+      "name": "5ee3e64e63b75e3552ea.hot-update.json",
       "size": 54,
       "chunks": [],
       "chunkNames": [],
@@ -24,8 +24,8 @@
       "emitted": false
     },
     {
-      "name": "gerrie-craig.0c2e1da4a847b2ab759f.hot-update.js",
-      "size": 24410,
+      "name": "gerrie-craig.5ee3e64e63b75e3552ea.hot-update.js",
+      "size": 30033,
       "chunks": [
         "gerrie-craig"
       ],
@@ -40,7 +40,7 @@
     },
     {
       "name": "gerrie-craig.module.js",
-      "size": 4831943,
+      "size": 4845770,
       "chunks": [
         "gerrie-craig"
       ],
@@ -59,7 +59,7 @@
       ],
       "assets": [
         "gerrie-craig.module.js",
-        "gerrie-craig.0c2e1da4a847b2ab759f.hot-update.js"
+        "gerrie-craig.5ee3e64e63b75e3552ea.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -72,7 +72,7 @@
       ],
       "assets": [
         "gerrie-craig.module.js",
-        "gerrie-craig.0c2e1da4a847b2ab759f.hot-update.js"
+        "gerrie-craig.5ee3e64e63b75e3552ea.hot-update.js"
       ],
       "children": {},
       "childAssets": {}

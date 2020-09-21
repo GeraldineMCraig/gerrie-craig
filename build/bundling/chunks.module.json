@@ -1,0 +1,89 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "77eae42768010197a5d7",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\jugk\\Desktop\\gerrie-craig\\build\\static",
+  "assetsByChunkName": {
+    "gerrie-craig": [
+      "gerrie-craig.module.js",
+      "gerrie-craig.86b4a858ccb5e47e7781.hot-update.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "86b4a858ccb5e47e7781.hot-update.json",
+      "size": 54,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "gerrie-craig.86b4a858ccb5e47e7781.hot-update.js",
+      "size": 2865,
+      "chunks": [
+        "gerrie-craig"
+      ],
+      "chunkNames": [
+        "gerrie-craig"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "gerrie-craig.module.js",
+      "size": 4795458,
+      "chunks": [
+        "gerrie-craig"
+      ],
+      "chunkNames": [
+        "gerrie-craig"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "gerrie-craig": {
+      "chunks": [
+        "gerrie-craig"
+      ],
+      "assets": [
+        "gerrie-craig.module.js",
+        "gerrie-craig.86b4a858ccb5e47e7781.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "gerrie-craig": {
+      "chunks": [
+        "gerrie-craig"
+      ],
+      "assets": [
+        "gerrie-craig.module.js",
+        "gerrie-craig.86b4a858ccb5e47e7781.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}
